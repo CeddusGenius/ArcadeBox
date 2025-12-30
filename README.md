@@ -1,13 +1,13 @@
 # ArcadeBox
 
-ArcadeBox est un concept permettant de transformer un PC en **borne arcade CRT 15 kHz** sous Windows 7.  
+ArcadeBox est un concept permettant de transformer un PC en **borne arcade CRT 15 kHz** sous Windows 7 pro.  
 Le projet repose sur une configuration minimale, optimisée pour l’émulation et l’expérience arcade authentique.
 
 ---
 
 ## Objectif
 
-- Utiliser un PC équipé d’une carte graphique **ATI** et des drivers **CRT Emudriver & CRT Tools 2.0** ([lien officiel](http://geedorah.com/eiusdemmodi/forum/viewtopic.php?id=295)) pour générer un signal vidéo 15 kHz compatible avec un téléviseur ou moniteur CRT.  
+- Utiliser un PC équipé d’une carte graphique **ATI** et des drivers [**CRT Emudriver & CRT Tools 2.0**](http://geedorah.com/eiusdemmodi/forum/viewtopic.php?id=295) pour générer un signal vidéo 15 kHz compatible avec un téléviseur ou moniteur CRT.  
 - Alléger Windows 7 en désactivant les services et programmes non essentiels.  
 - Sécuriser le système avec **Malwarebytes Windows Firewall Control (WFC)** pour contrôler toutes les connexions entrantes et sortantes.  
 - Utiliser uniquement des programmes portables pour limiter l’impact sur le système.  
@@ -21,8 +21,8 @@ Le projet repose sur une configuration minimale, optimisée pour l’émulation 
 - **Émulation** : [RetroArch](https://www.retroarch.com/)  
 - **Menu système** : développé avec [AutoHotKey v2](https://www.autohotkey.com/docs/v2/), remplaçant l’explorer de Windows par une interface minimaliste et adaptée à l’usage arcade.
 - **Pare-feu** : [Malwarebytes Windows Firewall Control (WFC)](https://www.binisoft.org/wfc)
-- **Gestion à distance** : [TeamViewer Portable](https://portableapps.com/apps/utilities/teamviewer_portable)
-- **Serveur FTP** : [Xlight FTP Server](https://www.xlightftpd.com/?utm_source=copilot.com)
+- **Gestion à distance** : **Remote Desktop Protocol (RDP)** natif de Windows 7 Pro
+- **Serveur FTP** : [Xlight FTP Server](https://www.xlightftpd.com/)
 
 ---
 
