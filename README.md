@@ -1,11 +1,59 @@
 # ArcadeBox
-ArcadeBox est un concept pour réaliser une borne arcade CRT en 15 kHz en utilisant un PC sous Windows 7 équipé d'une carte graphique ATI en ayant au préalable installé CRT Emudriver & CRT Tools 2.0 ( http://geedorah.com/eiusdemmodi/forum/viewtopic.php?id=295 )
 
-Le concept et d'alléger le système en désactivant plusieurs services de Windows et programmes non utile à ce projet, d'utiliser le pare-feu Malwarebytes WFC pour gérer toutes connexions entrantes et sortantes non désiré et des programmes portable.
-Gestion à distance du système via TeamViewer et échange de fichier via client FTP.
+ArcadeBox est un concept permettant de transformer un PC en **borne arcade CRT 15 kHz** sous Windows 7.  
+Le projet repose sur une configuration minimale, optimisée pour l’émulation et l’expérience arcade authentique.
 
-ArcadeBox utilise le frontend Pegasus et RetroArch pour l'émulation. Et un menu système minimaliste créer avec AutoHotKey qui remplace l'explorer de Windows.
+---
 
-Pour l'utilisation de Windows 7 j'utilise deux comptes  :
-- un compte administrateur "Admin" protégé par mot de passe.
-- un compte invité "ArcadeBox" autologin au démarrage de la borne arcade.
+## Objectif
+
+- Utiliser un PC équipé d’une carte graphique **ATI** et des drivers **CRT Emudriver & CRT Tools 2.0** ([lien officiel](http://geedorah.com/eiusdemmodi/forum/viewtopic.php?id=295)) pour générer un signal vidéo 15 kHz compatible avec un téléviseur ou moniteur CRT.  
+- Alléger Windows 7 en désactivant les services et programmes non essentiels.  
+- Sécuriser le système avec **Malwarebytes Windows Firewall Control (WFC)** pour contrôler toutes les connexions entrantes et sortantes.  
+- Utiliser uniquement des programmes portables pour limiter l’impact sur le système.  
+- Permettre une gestion distante via **TeamViewer** et un échange de fichiers par **client FTP**.  
+
+---
+
+## Logiciels utilisés
+
+- **Frontend** : [Pegasus](https://pegasus-frontend.org/)  
+- **Émulation** : [RetroArch](https://www.retroarch.com/)  
+- **Menu système** : développé avec **AutoHotKey v2**, remplaçant l’explorer de Windows par une interface minimaliste et adaptée à l’usage arcade.  
+
+---
+
+## Gestion des comptes Windows
+
+ArcadeBox repose sur deux comptes distincts :
+
+- **Admin** : compte administrateur protégé par mot de passe.  
+- **ArcadeBox** : compte invité configuré en **autologin** au démarrage de la borne arcade.  
+
+Cette séparation garantit la sécurité et la simplicité d’utilisation pour les joueurs.
+
+---
+
+## Fonctionnalités principales
+
+- Signal vidéo 15 kHz pour CRT via CRT Emudriver.  
+- Système Windows 7 allégé et sécurisé.  
+- Interface minimaliste pensée pour une borne arcade.  
+- Gestion distante et transfert de fichiers simplifiés.  
+- Expérience utilisateur fluide et adaptée aux enfants comme aux passionnés.  
+
+---
+
+## Installation
+
+1. Installer Windows 7 sur un PC équipé d’une carte ATI compatible.  
+2. Installer **CRT Emudriver & CRT Tools 2.0**.  
+3. Configurer les comptes Windows (Admin + ArcadeBox).  
+4. Installer Pegasus et RetroArch en version portable.  
+5. Déployer le menu système AutoHotKey compilé en `.exe`.  
+6. Configurer Malwarebytes WFC, TeamViewer et FTP selon vos besoins.  
+
+---
+
+## Licence
+  
