@@ -7,7 +7,7 @@ Le projet repose sur une configuration minimale, optimisée pour l’émulation 
 
 ## Objectif
 
-- Utiliser un PC équipé d’une carte graphique **ATI** et des drivers [**CRT Emudriver & CRT Tools 2.0**](http://geedorah.com/eiusdemmodi/forum/viewtopic.php?id=295) pour générer un signal vidéo 15 kHz compatible avec un téléviseur ou moniteur CRT.  
+- Utiliser un PC équipé d’une carte graphique **ATI** compatible avec les drivers [**CRT Emudriver & CRT Tools 2.0**](http://geedorah.com/eiusdemmodi/forum/viewtopic.php?id=295) pour générer un signal vidéo 15 kHz compatible avec un téléviseur ou moniteur CRT.  
 - Alléger Windows 7 en désactivant les services et programmes non essentiels.  
 - Sécuriser le système avec **Malwarebytes Windows Firewall Control (WFC)** pour contrôler toutes les connexions entrantes et sortantes.  
 - Utiliser uniquement des programmes portables pour limiter l’impact sur le système.  
