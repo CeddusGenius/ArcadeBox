@@ -11,7 +11,7 @@ Le projet repose sur une configuration minimale, optimisée pour l’émulation 
 - Alléger Windows 7 en désactivant les services et programmes non essentiels.  
 - Sécuriser le système avec **Malwarebytes Windows Firewall Control (WFC)** pour contrôler toutes les connexions entrantes et sortantes.  
 - Utiliser uniquement des programmes portables pour limiter l’impact sur le système.  
-- Permettre une gestion distante via **TeamViewer** et un échange de fichiers par **client FTP**.  
+- Permettre une gestion distante via **Remote Desktop Protocol (RDP)** et un échange de fichiers par **client FTP**.  
 
 ---
 
