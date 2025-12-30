@@ -21,7 +21,8 @@ Le projet repose sur une configuration minimale, optimisée pour l’émulation 
 - **Émulation** : [RetroArch](https://www.retroarch.com/)  
 - **Menu système** : développé avec [AutoHotKey v2](https://www.autohotkey.com/docs/v2/), remplaçant l’explorer de Windows par une interface minimaliste et adaptée à l’usage arcade.
 - **Pare-feu** : [Malwarebytes Windows Firewall Control (WFC)](https://www.binisoft.org/wfc)
-- **Gestion à distance** : [TeamViewer Portable](https://portableapps.com/apps/utilities/teamviewer_portable)  
+- **Gestion à distance** : [TeamViewer Portable](https://portableapps.com/apps/utilities/teamviewer_portable)
+- **Serveur FTP** : [Xlight FTP Server](https://www.xlightftpd.com/?utm_source=copilot.com)
 
 ---
 
