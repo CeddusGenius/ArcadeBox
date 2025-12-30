@@ -57,3 +57,8 @@ Cette séparation garantit la sécurité et la simplicité d’utilisation pour 
 
 ## Licence
   
+- Le **code source** d’ArcadeBox est distribué sous licence [GNU GPL v3](LICENSE).  
+  Vous êtes libres de l’utiliser, le modifier et le redistribuer, à condition que toute version dérivée reste sous la même licence et que le code source soit rendu disponible.
+
+- La **documentation et les guides** sont publiés sous licence [Creative Commons BY-NC-SA 4.0](LICENSE-DOCS).  
+  Vous pouvez les partager et les adapter, mais **pas pour un usage commercial**, et vous devez conserver la même licence pour vos dérivés.
