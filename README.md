@@ -54,7 +54,7 @@ Cette séparation garantit la sécurité et la simplicité d’utilisation pour 
 3. Configurer les comptes Windows (Admin + ArcadeBox).  
 4. Installer Pegasus et RetroArch en version portable.  
 5. Déployer le menu système AutoHotKey compilé en `.exe`.  
-6. Configurer Malwarebytes WFC, TeamViewer et FTP selon vos besoins.  
+6. Configurer Malwarebytes WFC, Contrôle à distance et FTP selon vos besoins.  
 
 ---
 
