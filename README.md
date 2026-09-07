@@ -1,6 +1,6 @@
 # ArcadeBox
 
-ArcadeBox est un concept permettant de transformer un PC en **borne arcade CRT 15 kHz** sous Windows 7 pro.  
+ArcadeBox Project est un concept permettant de transformer un PC en **borne arcade CRT 15 kHz** sous Windows 10 IOT Enterprise LTSC 2021 x64.  
 Le projet repose sur une configuration minimale, optimisée pour l’émulation et l’expérience arcade authentique.
 
 ---
@@ -8,7 +8,7 @@ Le projet repose sur une configuration minimale, optimisée pour l’émulation 
 ## Objectif
 
 - Utiliser un PC équipé d’une carte graphique **ATI** compatible avec les drivers [**CRT Emudriver & CRT Tools 2.0**](http://geedorah.com/eiusdemmodi/forum/viewtopic.php?id=295) pour générer un signal vidéo 15 kHz compatible avec un téléviseur ou moniteur CRT.  
-- Alléger Windows 7 en désactivant les services et programmes non essentiels.  
+- Paramétrer Windows 10 en désactivant les services et programmes non essentiels.  
 - Sécuriser le système avec **Malwarebytes Windows Firewall Control (WFC)** pour contrôler toutes les connexions entrantes et sortantes.  
 - Utiliser uniquement des programmes portables pour limiter l’impact sur le système.  
 - Permettre une gestion distante via **Remote Desktop Protocol (RDP)** et un échange de fichiers par **client FTP**.  
@@ -17,11 +17,12 @@ Le projet repose sur une configuration minimale, optimisée pour l’émulation 
 
 ## Logiciels utilisés
 
-- **Frontend** : [Pegasus](https://pegasus-frontend.org/)  
-- **Émulation** : [RetroArch](https://www.retroarch.com/)  
+- **Frontend** : [Pegasus-FE](https://pegasus-frontend.org/)  
+- **Émulation** : [RetroArch](https://www.retroarch.com/)
+                  [GroovyMame] (https://github.com/antonioginer/GroovyMAME)
 - **Menu système** : développé avec [AutoHotKey v2](https://www.autohotkey.com/docs/v2/), remplaçant l’explorer de Windows par une interface minimaliste et adaptée à l’usage arcade.
 - **Pare-feu** : [Malwarebytes Windows Firewall Control (WFC)](https://www.binisoft.org/wfc)
-- **Gestion à distance** : **Remote Desktop Protocol (RDP)** natif de Windows 7 Pro
+- **Gestion à distance** : **Remote Desktop Protocol (RDP)** natif de Windows 10
 - **Serveur FTP** : [Xlight FTP Server](https://www.xlightftpd.com/)
 
 ---
@@ -40,7 +41,7 @@ Cette séparation garantit la sécurité et la simplicité d’utilisation pour 
 ## Fonctionnalités principales
 
 - Signal vidéo 15 kHz pour CRT via CRT Emudriver.  
-- Système Windows 7 allégé et sécurisé.  
+- Système Windows 10 paramétré et sécurisé.  
 - Interface minimaliste pensée pour une borne arcade.  
 - Gestion distante et transfert de fichiers simplifiés.  
 - Expérience utilisateur fluide et adaptée aux enfants comme aux passionnés.  
@@ -49,10 +50,10 @@ Cette séparation garantit la sécurité et la simplicité d’utilisation pour 
 
 ## Installation
 
-1. Installer Windows 7 sur un PC équipé d’une carte ATI compatible.  
+1. Installer Windows 10 sur un PC équipé d’une carte ATI compatible.  
 2. Installer **CRT Emudriver & CRT Tools 2.0**.  
 3. Configurer les comptes Windows (Admin + ArcadeBox).  
-4. Installer Pegasus et RetroArch en version portable.  
+4. Installer Pegasus-FE et RetroArch en version portable.  
 5. Déployer le menu système AutoHotKey compilé en `.exe`.  
 6. Configurer Malwarebytes WFC, Contrôle à distance et FTP selon vos besoins.  
 
