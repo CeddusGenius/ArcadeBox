@@ -1,6 +1,6 @@
-# ArcadeBox
+# ArcadeBox 15kHz Project by CeddusGenius
 
-ArcadeBox Project est un concept permettant de transformer un PC en **borne arcade CRT 15 kHz** sous Windows 10 IOT Enterprise LTSC 2021 x64.  
+ArcadeBox 15kHz Project by CeddusGenius est un concept permettant de transformer un PC en **borne arcade CRT 15 kHz** sous Windows 10 IoT Enterprise LTSC 2021 x64.  
 Le projet repose sur une configuration minimale, optimisée pour l’émulation et l’expérience arcade authentique.
 
 ---
@@ -18,11 +18,10 @@ Le projet repose sur une configuration minimale, optimisée pour l’émulation 
 ## Logiciels utilisés
 
 - **Frontend** : [Pegasus-FE](https://pegasus-frontend.org/)  
-- **Émulation** : [RetroArch](https://www.retroarch.com/)
-                  [GroovyMame] (https://github.com/antonioginer/GroovyMAME)
+- **Émulation** : [RetroArch](https://www.retroarch.com/) et [GroovyMame](https://github.com/antonioginer/GroovyMAME)
 - **Menu système** : développé avec [AutoHotKey v2](https://www.autohotkey.com/docs/v2/), remplaçant l’explorer de Windows par une interface minimaliste et adaptée à l’usage arcade.
 - **Pare-feu** : [Malwarebytes Windows Firewall Control (WFC)](https://www.binisoft.org/wfc)
-- **Gestion à distance** : **Remote Desktop Protocol (RDP)** natif de Windows 10
+- **Gestion à distance** : **Remote Desktop Protocol (RDP)** natif de Windows 10.
 - **Serveur FTP** : [Xlight FTP Server](https://www.xlightftpd.com/)
 
 ---
@@ -61,7 +60,7 @@ Cette séparation garantit la sécurité et la simplicité d’utilisation pour 
 
 ## Licence
   
-- Le **code source** d’ArcadeBox est distribué sous licence [GNU GPL v3](LICENSE).  
+- Le **code source** d’ArcadeBox 15kHz Project by CeddusGenius est distribué sous licence [GNU GPL v3](LICENSE).  
   Vous êtes libres de l’utiliser, le modifier et le redistribuer, à condition que toute version dérivée reste sous la même licence et que le code source soit rendu disponible.
 
 - La **documentation et les guides** sont publiés sous licence [Creative Commons BY-NC-SA 4.0](LICENSE-DOCS).  
