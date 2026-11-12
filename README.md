@@ -43,7 +43,7 @@ Cette séparation garantit la sécurité et la simplicité d’utilisation pour 
 - Système Windows 10 paramétré et sécurisé.  
 - Interface minimaliste pensée pour une borne arcade.  
 - Gestion distante et transfert de fichiers simplifiés.  
-- Expérience utilisateur fluide et adaptée aux enfants comme aux passionnés.  
+- Expérience utilisateur final fluide et adaptée aux enfants comme aux passionnés.  
 
 ---
 
