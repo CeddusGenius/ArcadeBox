@@ -11,7 +11,7 @@ Le projet repose sur une configuration minimale, optimisée pour l’émulation 
 - Paramétrer Windows 10 en désactivant les services et programmes non essentiels.  
 - Sécuriser le système avec **Malwarebytes Windows Firewall Control (WFC)** pour contrôler toutes les connexions entrantes et sortantes.  
 - Utiliser uniquement des programmes portables pour limiter l’impact sur le système.  
-- Permettre une gestion distante via **Remote Desktop Protocol (RDP)** et un échange de fichiers par **client FTP**.  
+- Permettre une gestion distante via **UltraVNC** et un échange de fichiers par **client FTP**.  
 
 ---
 
@@ -19,7 +19,7 @@ Le projet repose sur une configuration minimale, optimisée pour l’émulation 
 
 - **Frontend** : [Pegasus-FE](https://pegasus-frontend.org/)  
 - **Émulation** : [RetroArch](https://www.retroarch.com/) et [GroovyMame](https://github.com/antonioginer/GroovyMAME)
-- **Menu système** : développé avec [AutoHotKey v2](https://www.autohotkey.com/docs/v2/), remplaçant l’explorer de Windows par une interface minimaliste et adaptée à l’usage arcade.
+- **Menu système** : développé avec [AutoHotKey v2](https://www.autohotkey.com/docs/v2/), remplaçant l’explorer de Windows par une interface minimaliste et adaptée à notre utilisation.
 - **Pare-feu** : [Malwarebytes Windows Firewall Control (WFC)](https://www.binisoft.org/wfc)
 - **Gestion à distance** : [UltraVNC](https://github.com/ultravnc/UltraVNC)
 - **Serveur FTP** : [Xlight FTP Server](https://www.xlightftpd.com/)
@@ -31,7 +31,7 @@ Le projet repose sur une configuration minimale, optimisée pour l’émulation 
 ArcadeBox repose sur deux comptes distincts :
 
 - **Admin** : compte administrateur protégé par mot de passe.  
-- **ArcadeBox** : compte invité configuré en **autologin** au démarrage de la borne arcade.  
+- **ArcadeBox** : compte standard configuré en **autologin** au démarrage de la borne arcade.  
 
 Cette séparation garantit la sécurité et la simplicité d’utilisation pour les joueurs.
 
