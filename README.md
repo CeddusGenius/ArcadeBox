@@ -17,7 +17,7 @@ Le projet repose sur une configuration minimale, optimisée pour l’émulation 
 
 ## Logiciels utilisés
 
-- **Frontend** : [Pegasus-FE](https://pegasus-frontend.org/)  
+- **Frontend** : [Pegasus-FE](https://pegasus-frontend.org/) avec le thème ArcadeBox adapté à la résolution 240p/288p.
 - **Émulation** : [RetroArch](https://www.retroarch.com/) et [GroovyMame](https://github.com/antonioginer/GroovyMAME)
 - **Menu système** : développé avec [AutoHotKey v2](https://www.autohotkey.com/docs/v2/), remplaçant l’explorer de Windows par une interface minimaliste et adaptée à notre utilisation.
 - **Pare-feu** : [Malwarebytes Windows Firewall Control (WFC)](https://www.binisoft.org/wfc)
