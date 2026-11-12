@@ -21,7 +21,7 @@ Le projet repose sur une configuration minimale, optimisée pour l’émulation 
 - **Émulation** : [RetroArch](https://www.retroarch.com/) et [GroovyMame](https://github.com/antonioginer/GroovyMAME)
 - **Menu système** : développé avec [AutoHotKey v2](https://www.autohotkey.com/docs/v2/), remplaçant l’explorer de Windows par une interface minimaliste et adaptée à l’usage arcade.
 - **Pare-feu** : [Malwarebytes Windows Firewall Control (WFC)](https://www.binisoft.org/wfc)
-- **Gestion à distance** : **Remote Desktop Protocol (RDP)** natif de Windows 10.
+- **Gestion à distance** : [UltraVNC](https://github.com/ultravnc/UltraVNC)
 - **Serveur FTP** : [Xlight FTP Server](https://www.xlightftpd.com/)
 
 ---
