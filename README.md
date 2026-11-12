@@ -1,6 +1,6 @@
 # ArcadeBox 15kHz Project by CeddusGenius
 
-ArcadeBox 15kHz Project by CeddusGenius est un concept permettant de transformer un PC en **borne arcade CRT 15 kHz** sous Windows 10 IoT Enterprise LTSC 2021 x64.  
+ArcadeBox 15kHz Project by CeddusGenius est un concept permettant de transformer un PC devenu "obsolète" en **borne arcade CRT 15 kHz** sous Windows 10 IoT Enterprise LTSC 2021 x64.  
 Le projet repose sur une configuration minimale, optimisée pour l’émulation et l’expérience arcade authentique.
 
 ---
